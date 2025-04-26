@@ -8,12 +8,19 @@ To write a program to predict the type of species of the Iris flower using the S
 
 ## Algorithm
 1.Import NumPy, Pandas, Matplotlib, Seaborn, and scikit-learn tools.
+
 2.Load the Iris dataset and create a DataFrame with features and target.
+
 3.Separate features (x) and labels (y), then split into training and testing sets.
+
 4.Create and train an SGDClassifier on the training data.
+
 5.Use the trained model to predict labels on the test data.
+
 6.Calculate and print the accuracy of the model.
+
 7.Generate and print the confusion matrix to assess classification performance.
+
 8.Plot the true vs. predicted labels to visualize prediction distribution.
 
 ## Program:
