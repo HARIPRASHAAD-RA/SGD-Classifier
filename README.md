@@ -44,7 +44,7 @@ print("Accuracy: ",accuracy)
 confusion_mat=confusion_matrix(y_test,y_pred)
 print("Confuison matrix: ",confusion_mat)
 plt.scatter(y_test,y_pred)
-
+```
 
 ## Output:
 
